@@ -1,0 +1,40 @@
+body {
+    background-color: rgba(255, 255, 0, 0.362);
+}
+
+#underline,
+#header_font {
+    text-decoration: underline;
+    font-family: "Trirong", serif;
+}
+
+#contact_link {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#gallery_link {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#buy_puppy_link {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#contacts {
+    text-decoration: underline;
+}
